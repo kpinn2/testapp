@@ -21,6 +21,7 @@ namespace testapp.Controllers
         public IActionResult Index()
         {
             return View();
+            //change made
         }
 
         public IActionResult Privacy()
